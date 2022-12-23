@@ -1,5 +1,5 @@
 # ADA DATA STORY
 
-[View Data Story](https://KieranVaudaux.github.io/beer-data-story/)
+[View Data Story](https://kieranvaudaux.github.io)
  
  
