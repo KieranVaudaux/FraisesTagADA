@@ -59,7 +59,7 @@ Conducting analyses on 70 different beer types was to large. Grouping the beers 
 
 ## Organization within the team
 
-**Teammate 1** = Clustering for grading analysis + helping for the website
-**Teammate 2** = Creating website
-**Teammate 3** = Finishing translation and key-words highlighting  + Comment analysis
-**Teammate 4** = Comment analysis + Grading analysis
+**Teammate 1** = Clustering for grading analysis + helping for the website  
+**Teammate 2** = Creating website  
+**Teammate 3** = Finishing translation and key-words highlighting  + Comment analysis 
+**Teammate 4** = Comment analysis + Grading analysis  
